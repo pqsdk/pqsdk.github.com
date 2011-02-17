@@ -1,4 +1,3 @@
 #!/bin/sh
 
 rsync -a _site/* ../ae
-rsync -a _site/* ../ghpages
